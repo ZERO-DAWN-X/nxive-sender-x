@@ -11,7 +11,7 @@
 
 <p align="center">
 
-| | |
+| Platform | Details |
 |:---:|:---|
 | **Windows** | x86-64 &mdash; Installer & Portable |
 | **Android** | ARM64, ARMv7, x86_64 |

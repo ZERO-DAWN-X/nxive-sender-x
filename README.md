@@ -43,6 +43,89 @@
 
 ---
 
+<p align="center">
+  <img src="assets/nxive-home.png" alt="Nxive Sender" width="720" />
+</p>
+
+---
+
+<h2 align="center">D E S K T O P</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/send.png" alt="Send" width="360" /><br/>
+      <sub><strong>Send</strong> &mdash; Select files, folders, or text</sub>
+    </td>
+    <td align="center">
+      <img src="assets/receive.png" alt="Receive" width="360" /><br/>
+      <sub><strong>Receive</strong> &mdash; Waiting for response</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/response.png" alt="Transfer" width="360" /><br/>
+      <sub><strong>Transfer</strong> &mdash; Device-to-device connection</sub>
+    </td>
+    <td align="center">
+      <img src="assets/finished.png" alt="Done" width="360" /><br/>
+      <sub><strong>Done</strong> &mdash; Transfer complete</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">M O B I L E</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/mobile-homescreen.png" alt="Home" width="180" /><br/>
+      <sub><strong>Home</strong></sub>
+    </td>
+    <td align="center">
+      <img src="assets/mobile-themes.png" alt="Send" width="180" /><br/>
+      <sub><strong>Send</strong></sub>
+    </td>
+    <td align="center">
+      <img src="assets/mobile-receive.png" alt="Receive" width="180" /><br/>
+      <sub><strong>Receive</strong></sub>
+    </td>
+    <td align="center">
+      <img src="assets/mobile-finished.png" alt="Done" width="180" /><br/>
+      <sub><strong>Done</strong></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">T H E M E S</h2>
+
+<p align="center">
+  <img src="assets/theme-pal.png" alt="Theme Palette" width="400" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/mobile-homescreen.png" alt="Dark" width="180" /><br/>
+      <sub><strong>Dark</strong></sub>
+    </td>
+    <td align="center">
+      <img src="assets/mobile-pink.png" alt="Pink" width="180" /><br/>
+      <sub><strong>Pink</strong></sub>
+    </td>
+    <td align="center">
+      <img src="assets/mobile-themes-2.png" alt="Themes" width="180" /><br/>
+      <sub><strong>Custom</strong></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">D O W N L O A D S</h2>
 
 <h4 align="center">Windows</h4>
