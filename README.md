@@ -272,9 +272,10 @@
 <h2 align="center">C R E D I T S</h2>
 
 <p align="center">
-  Nxive Sender is built on top of LocalSend,<br/>
-  created by <strong>Tien Do Nam</strong> (<a href="https://github.com/Tienisto">@Tienisto</a>).<br/>
-  The core engine exists because of his work and the open-source community around it.
+  Nxive Sender is rebuilt on top of LocalSend,<br/>
+  originally created by <strong>Tien Do Nam</strong> (<a href="https://github.com/Tienisto">@Tienisto</a>).<br/>
+  We've enhanced the core with a completely redesigned interface, new features, and improved performance—<br/>
+  all while honoring the foundation built by Tien and the open-source community.
 </p>
 
 <details>
