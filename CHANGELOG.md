@@ -1,17 +1,41 @@
-# Changelog
+<br/>
 
-All notable changes to Nxive Sender will be documented here.
+<h1 align="center">C H A N G E L O G</h1>
 
-See the full changelog at [sender.nxive.com/changelog](https://sender.nxive.com/changelog).
+<p align="center">
+  <sub>All notable changes to Nxive Sender will be documented here.</sub><br/>
+  <sub>See the full changelog at <a href="https://sender.nxive.com/changelog">sender.nxive.com/changelog</a>.</sub>
+</p>
+
+<br/>
 
 ---
 
-## v1.17.0 — Latest
+<br/>
 
-### Available Platforms
-- Windows (x86-64) — Installer & Portable
-- Android (ARM64, ARMv7, x86_64)
+<h3 align="center">v1.17.0 &mdash; Latest</h3>
 
-### Coming Soon
-- macOS (Universal)
-- Linux (x86-64)
+<br/>
+
+<p align="center">
+
+| | |
+|:---:|:---|
+| **Windows** | x86-64 &mdash; Installer & Portable |
+| **Android** | ARM64, ARMv7, x86_64 |
+
+</p>
+
+<br/>
+
+<p align="center">
+
+| | |
+|:---:|:---|
+| **macOS** | Universal &mdash; *coming soon* |
+| **Linux** | x86-64 &mdash; *coming soon* |
+
+</p>
+
+<br/>
+<br/>

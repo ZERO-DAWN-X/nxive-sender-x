@@ -1,9 +1,8 @@
+<br/>
+<br/>
+
 <p align="center">
-  <br/>
-  <br/>
-  <img src="assets/nxive-logo.svg" alt="Nxive Sender" width="100" height="100" />
-  <br/>
-  <br/>
+  <img src="assets/nxive-logo.svg" alt="Nxive Sender" width="88" height="88" />
 </p>
 
 <h1 align="center">
@@ -11,144 +10,299 @@
 </h1>
 
 <p align="center">
-  <sub>Send anything. To anyone. No cloud. No limits.</sub>
+  <strong>Send anything. To anyone. No cloud. No limits.</strong>
 </p>
+
+<br/>
 
 <p align="center">
   <a href="https://sender.nxive.com">
-    <img src="https://img.shields.io/badge/sender.nxive.com-ec4899?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/sender.nxive.com-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/v1.17.0-171717?style=flat-square" alt="Version" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Windows%20%7C%20Android-171717?style=flat-square" alt="Platforms" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/macOS%20%7C%20Linux%20%E2%80%94%20soon-333?style=flat-square" alt="Coming Soon" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/v1.17.0-111111?style=for-the-badge" alt="Version" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows%20%C2%B7%20Android-111111?style=for-the-badge" alt="Platforms" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/macOS%20%C2%B7%20Linux%20%E2%80%94%20soon-222222?style=for-the-badge" alt="Coming Soon" />
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://sender.nxive.com">Website</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <a href="https://sender.nxive.com/docs">Docs</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <a href="https://sender.nxive.com/changelog">Changelog</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <a href="https://sender.nxive.com/privacy">Privacy</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <a href="https://sender.nxive.com/terms">Terms</a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<p align="center">
+  <em>
+    Free, encrypted, peer-to-peer file transfer.<br/>
+    No internet required. No file size limits. No accounts.<br/>
+    Install on two devices. Connect to the same network. Send.<br/>
+    That's it.
+  </em>
+</p>
+
+<br/>
+
+---
+
+<br/>
+<br/>
+
+<h2 align="center">D O W N L O A D S</h2>
+
+<br/>
+
+<h3 align="center">Windows</h3>
+
+<p align="center">
+
+| | File | Architecture |
+|:---:|:---|:---|
+| **Installer** | [`NxiveSender-Setup.exe`](downloads/NxiveSender-Setup.exe) | x86-64 |
+| **Portable** | [`NxiveSender-Windows-x64.zip`](downloads/NxiveSender-Windows-x64.zip) | x86-64 |
+
+</p>
+
+<br/>
+
+<h3 align="center">Android</h3>
+
+<p align="center">
+
+| | File | Notes |
+|:---:|:---|:---|
+| **ARM64** | [`NxiveSender-arm64.apk`](downloads/NxiveSender-arm64.apk) | Most devices (2018+) |
+| **ARMv7** | [`NxiveSender-armv7.apk`](downloads/NxiveSender-armv7.apk) | Older devices |
+| **x86_64** | [`NxiveSender-x86_64.apk`](downloads/NxiveSender-x86_64.apk) | Emulators |
+
+</p>
+
+<br/>
+
+<h3 align="center">macOS & Linux</h3>
+
+<p align="center">
+  <sub>Coming soon.</sub>
 </p>
 
 <br/>
 <br/>
 
-> Free, encrypted, peer-to-peer file transfer. No internet required, no file size limits,
-> no accounts. Install on two devices, connect to the same network, and send.
-> That's it.
-
-<br/>
-
-### Windows
-
-| | File | |
-|:---|:---|:---|
-| Installer | [`NxiveSender-Setup.exe`](downloads/NxiveSender-Setup.exe) | x86-64 |
-| Portable | [`NxiveSender-Windows-x64.zip`](downloads/NxiveSender-Windows-x64.zip) | x86-64 |
-
-### Android
-
-| | File | |
-|:---|:---|:---|
-| ARM64 | [`NxiveSender-arm64.apk`](downloads/NxiveSender-arm64.apk) | Most devices (2018+) |
-| ARMv7 | [`NxiveSender-armv7.apk`](downloads/NxiveSender-armv7.apk) | Older devices |
-| x86_64 | [`NxiveSender-x86_64.apk`](downloads/NxiveSender-x86_64.apk) | Emulators |
-
-### macOS & Linux
-
-> Coming soon.
+---
 
 <br/>
 <br/>
 
-```
-HOW IT WORKS
-```
+<h2 align="center">H O W &nbsp; I T &nbsp; W O R K S</h2>
 
-```
- Install     Both devices need Nxive Sender
-    |
- Connect     Same WiFi or LAN network
-    |
- Select      Pick any files or folders
-    |
- Done        Instant transfer, device to device
-```
+<br/>
 
-<sub>No servers. No configuration. No accounts.</sub>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <br/>
+      <strong>01</strong><br/><br/>
+      <strong>Install</strong><br/>
+      <sub>Both devices need<br/>Nxive Sender</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="60">
+      <sub>&rarr;</sub>
+    </td>
+    <td align="center" width="200">
+      <br/>
+      <strong>02</strong><br/><br/>
+      <strong>Connect</strong><br/>
+      <sub>Same WiFi or<br/>LAN network</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="60">
+      <sub>&rarr;</sub>
+    </td>
+    <td align="center" width="200">
+      <br/>
+      <strong>03</strong><br/><br/>
+      <strong>Select</strong><br/>
+      <sub>Pick any files<br/>or folders</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="60">
+      <sub>&rarr;</sub>
+    </td>
+    <td align="center" width="200">
+      <br/>
+      <strong>04</strong><br/><br/>
+      <strong>Done</strong><br/>
+      <sub>Instant transfer,<br/>device to device</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <br/>
+  <sub>No servers. No configuration. No accounts.</sub>
+</p>
 
 <br/>
 <br/>
 
-```
-FEATURES
-```
-
-| | |
-|:---|:---|
-| **Peer-to-peer** | Direct device-to-device over local network |
-| **Offline** | No internet connection required |
-| **Unlimited** | No file size restrictions |
-| **Encrypted** | End-to-end, your data stays private |
-| **Zero accounts** | No sign-up, no login, no tracking |
-| **Cross-platform** | Windows, Android. macOS, Linux soon |
-| **Any file** | Documents, media, archives, installers |
-| **Folders** | Send entire directories at once |
+---
 
 <br/>
 <br/>
 
-```
-REQUIREMENTS
-```
+<h2 align="center">F E A T U R E S</h2>
 
-| Platform | Version |
-|:---|:---|
-| Windows | 10 or later |
-| Android | 8.0 Oreo or later |
-| macOS | 11 Big Sur or later *(soon)* |
-| Linux | Ubuntu 20.04+ / Fedora 36+ *(soon)* |
+<br/>
+
+<table align="center">
+  <tr>
+    <td width="440">
+      <br/>
+      &nbsp;&nbsp;<strong>Peer-to-peer</strong><br/>
+      &nbsp;&nbsp;<sub>Direct device-to-device over local network</sub>
+      <br/><br/>
+    </td>
+    <td width="440">
+      <br/>
+      &nbsp;&nbsp;<strong>Offline</strong><br/>
+      &nbsp;&nbsp;<sub>No internet connection required</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <br/>
+      &nbsp;&nbsp;<strong>Unlimited</strong><br/>
+      &nbsp;&nbsp;<sub>No file size restrictions</sub>
+      <br/><br/>
+    </td>
+    <td>
+      <br/>
+      &nbsp;&nbsp;<strong>Encrypted</strong><br/>
+      &nbsp;&nbsp;<sub>End-to-end, your data stays private</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <br/>
+      &nbsp;&nbsp;<strong>Zero accounts</strong><br/>
+      &nbsp;&nbsp;<sub>No sign-up, no login, no tracking</sub>
+      <br/><br/>
+    </td>
+    <td>
+      <br/>
+      &nbsp;&nbsp;<strong>Cross-platform</strong><br/>
+      &nbsp;&nbsp;<sub>Windows, Android. macOS, Linux soon</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <br/>
+      &nbsp;&nbsp;<strong>Any file</strong><br/>
+      &nbsp;&nbsp;<sub>Documents, media, archives, installers</sub>
+      <br/><br/>
+    </td>
+    <td>
+      <br/>
+      &nbsp;&nbsp;<strong>Folders</strong><br/>
+      &nbsp;&nbsp;<sub>Send entire directories at once</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
 
-```
-ROADMAP
-```
-
-```
-  [==========]  Windows       shipped
-  [==========]  Android       shipped
-  [====------]  macOS         in progress
-  [====------]  Linux         in progress
-  [----------]  iOS           planned
-```
+---
 
 <br/>
 <br/>
 
-```
-CREDITS
-```
+<h2 align="center">R E Q U I R E M E N T S</h2>
 
-Nxive Sender is built on [LocalSend](https://github.com/localsend/localsend),
-created by **Tien Do Nam** ([@Tienisto](https://github.com/Tienisto)).
-The core engine exists because of his work and the open-source community around it.
+<br/>
+
+<p align="center">
+
+| Platform | Minimum Version |
+|:---:|:---:|
+| **Windows** | 10 or later |
+| **Android** | 8.0 Oreo or later |
+| **macOS** | 11 Big Sur or later *(coming soon)* |
+| **Linux** | Ubuntu 20.04+ / Fedora 36+ *(coming soon)* |
+
+</p>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+<h2 align="center">R O A D M A P</h2>
+
+<br/>
+
+<p align="center">
+
+| Platform | Status | Progress |
+|:---:|:---:|:---:|
+| **Windows** | Shipped | `##########` |
+| **Android** | Shipped | `##########` |
+| **macOS** | In Progress | `####------` |
+| **Linux** | In Progress | `####------` |
+| **iOS** | Planned | `----------` |
+
+</p>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+<h2 align="center">C R E D I T S</h2>
+
+<br/>
+
+<p align="center">
+  Nxive Sender is built on <a href="https://github.com/localsend/localsend">LocalSend</a>,<br/>
+  created by <strong>Tien Do Nam</strong> (<a href="https://github.com/Tienisto">@Tienisto</a>).<br/>
+  The core engine exists because of his work and the open-source community around it.
+</p>
+
+<br/>
 
 <details>
-<summary><strong>Core Contributors</strong></summary>
+<summary><p align="center"><strong>Core Contributors</strong></p></summary>
 
 <br/>
+
+<p align="center">
 
 | Name | Commits |
 |:---|---:|
@@ -169,30 +323,58 @@ The core engine exists because of his work and the open-source community around 
 | BryanJames16 | 9 |
 | graphemecluster | 9 |
 
-And 200+ community contributors through code, translations, and ideas.
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>And 200+ community contributors through code, translations, and ideas.</sub>
+</p>
 
 </details>
 
 <br/>
 
-**License** &mdash; LocalSend is released under the Apache License 2.0. Copyright 2022-2024 Tien Do Nam. Nxive Sender is built upon this foundation with full respect for the original license.
+<p align="center">
+  <sub>
+    <strong>License</strong> &mdash; LocalSend is released under the Apache License 2.0.<br/>
+    Copyright 2022-2024 Tien Do Nam.<br/>
+    Nxive Sender is built upon this foundation with full respect for the original license.
+  </sub>
+</p>
 
 <br/>
 <br/>
 
-```
-SOURCE
-```
+---
 
-This repository provides official releases and downloads only.
-The source code is not publicly available at this time.
+<br/>
+<br/>
+
+<h2 align="center">S O U R C E</h2>
+
+<br/>
+
+<p align="center">
+  This repository provides official releases and downloads only.<br/>
+  The source code is not publicly available at this time.
+</p>
+
+<br/>
+<br/>
+<br/>
+
+---
 
 <br/>
 <br/>
 <br/>
 
 <p align="center">
-  <sub><strong>N X I V E</strong></sub>
+  <strong>N X I V E</strong>
   <br/>
-  <sub><a href="https://nxive.com">nxive.com</a></sub>
+  <a href="https://nxive.com">nxive.com</a>
 </p>
+
+<br/>
+<br/>
