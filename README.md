@@ -272,7 +272,7 @@
 <h2 align="center">C R E D I T S</h2>
 
 <p align="center">
-  Nxive Sender is built on <a href="https://github.com/localsend/localsend">LocalSend</a>,
+  Nxive Sender is built on top of LocalSend,<br/>
   created by <strong>Tien Do Nam</strong> (<a href="https://github.com/Tienisto">@Tienisto</a>).<br/>
   The core engine exists because of his work and the open-source community around it.
 </p>
@@ -309,9 +309,9 @@
 
 <p align="center">
   <sub>
-    <strong>License</strong> &mdash; LocalSend is released under the Apache License 2.0.
+    <strong>License</strong> &mdash; The original project is released under the Apache License 2.0.
     Copyright 2022-2024 Tien Do Nam.<br/>
-    Nxive Sender is built upon this foundation with full respect for the original license.
+    Nxive Sender is built upon this open-source foundation with full respect for the original license and contributors.
   </sub>
 </p>
 
