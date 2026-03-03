@@ -85,7 +85,7 @@
       <sub><strong>Home</strong></sub>
     </td>
     <td align="center">
-      <img src="assets/mobile-themes.png" alt="Send" width="180" /><br/>
+      <img src="assets/mobile-send.png" alt="Send" width="180" /><br/>
       <sub><strong>Send</strong></sub>
     </td>
     <td align="center">
@@ -110,16 +110,16 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/mobile-homescreen.png" alt="Dark" width="180" /><br/>
-      <sub><strong>Dark</strong></sub>
+      <img src="assets/mobile-pink.png" alt="Some of the themes" width="180" /><br/>
+      <sub><strong>Some of the themes</strong></sub>
     </td>
     <td align="center">
-      <img src="assets/mobile-pink.png" alt="Pink" width="180" /><br/>
-      <sub><strong>Pink</strong></sub>
+      <img src="assets/mobile-themes.png" alt="Some of the themes" width="180" /><br/>
+      <sub><strong>Some of the themes</strong></sub>
     </td>
     <td align="center">
-      <img src="assets/mobile-themes-2.png" alt="Themes" width="180" /><br/>
-      <sub><strong>Custom</strong></sub>
+      <img src="assets/mobile-themes-2.png" alt="Some of the themes" width="180" /><br/>
+      <sub><strong>Some of the themes</strong></sub>
     </td>
   </tr>
 </table>
